@@ -3,10 +3,8 @@
 namespace GenerateShortRandom;
 
 
-use BitlyV4_Context;
-
 include_once __DIR__ . '/CommonFunction.php';
-include_once __DIR__ . '/components/bitly/autoload.php';
+include_once __DIR__ . '/components/bitly/BitlyV4_Context.php';
 
 /***
  * Class Icons

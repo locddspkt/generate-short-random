@@ -1,21 +1,5 @@
 <?php
-
-/**
- * @file
- * Simple PHP library for interacting with the v3 bit.ly api (only deals with
- * JSON format, but supports new OAuth endpoints).
- * REQUIREMENTS: PHP, Curl, JSON
- *
- * @link https://github.com/Falicon/BitlyPHP
- * @author Kevin Marshall <info@falicon.com>
- */
-
-/**
- * The URI of the standard bitly v3 API.
- */
-define('bitly_v3_api', 'https://api-ssl.bitly.com/v3/');
-
-use GenerateShortRandom\CommonFunction;
+namespace GenerateShortRandom;
 
 //with version 3, we use fixed token instead
 class BitlyV4_Context {
