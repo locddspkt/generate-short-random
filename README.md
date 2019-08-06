@@ -1,9 +1,9 @@
-# Load SVG icons
+# Get unique short random
 
 Easy way to generate the unique random. The code is get from bit.ly
 
 ## Getting Started
-
+ 
 ### Installing
 
 Clone the source into the project
