@@ -38,7 +38,7 @@ GenerateShortRandom\Generator::initTokens(['the','list','of','registered','token
 
 ## API get random
 
-[webroot/demo.php](https://hptsoft.com/generate-short-random/random.php)
+[webroot/random.php](https://hptsoft.com/generate-short-random/random.php)
 
 ## License
 
