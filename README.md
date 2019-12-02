@@ -34,11 +34,11 @@ GenerateShortRandom\Generator::initTokens(['the','list','of','registered','token
 
 ## Demo page
 
-[webroot/demo.php](https://hptsoft.com/generate-short-random/demo.php)
+[webroot/demo.php](https://demo.hptsoft.com/generate-short-random/demo.php)
 
 ## API get random
 
-[webroot/random.php](https://hptsoft.com/generate-short-random/random.php)
+[webroot/random.php](https://demo.hptsoft.com/generate-short-random/random.php)
 
 ## License
 
