@@ -9,8 +9,7 @@ Generator::initTokens($tokens);
 
 for ($i=1;$i<=10;$i++) {
     $random = Generator::random();
-    echo $random;
-    echo "\n";
+    echo "Random #{$i}: $random\n<br/>";
     sleep(1); //for the delay
 }
 
